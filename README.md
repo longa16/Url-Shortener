@@ -12,7 +12,16 @@ Url-Shortener is a simple project that allows users to shorten long URLs
    git clone https://github.com/longa16/Url-Shortener.git
 
 2. **Build the docker image**:
+   ```sh
+   docker build -t myurlshortener .
+
+3. **Run the docker container**:
+    ```sh
+    docker run -p 5000:5000 myurlshortener
+
+## Usage
+ Open your weeb browser and go to : 
   ```sh
-  docker build -t myurlshortener .
+    127.0.0.1:5000
 
  
