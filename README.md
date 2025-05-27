@@ -1,11 +1,11 @@
-# Url-Shortener
+# 🌐✂️ Url-Shortener
 Url-Shortener is a simple project that allows users to shorten long URLs
 
-## Prerequisites
+## ✅ Prerequisites
 
 - Docker installed on your machine.
 
-## Installation
+## 🛠️  Installation
 
 1. **Clone the repository**:
    ```sh
@@ -19,7 +19,7 @@ Url-Shortener is a simple project that allows users to shorten long URLs
     ```sh
     docker run -p 5000:5000 myurlshortener
 
-## Usage
+## 🌍 Usage
  Open your weeb browser and go to : 
   ```sh
     127.0.0.1:5000
